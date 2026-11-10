@@ -8,7 +8,7 @@ Proyectos prácticos desarrollados durante un bootcamp intensivo de **11 semanas
 |---|---|---|---|
 | 01 | [EDA de avisos inmobiliarios: capa Bronze](semana-01-eda-propiedades) | Ingesta con Unity Catalog y Volumes, EDA y calidad de datos con CTEs y window functions | ✅ |
 | 02 | Próximamente | | 🔜 |
-| 03 | Próximamente | | 🔜 |
+| 03 | [Arquitectura medallion: de Bronze a Silver](semana-03-medallion-silver) | Perfilado estadístico, tabla de referencia, tipado, deduplicación con window functions, flags de calidad y validaciones | ✅ |
 | 04 | Próximamente | | 🔜 |
 | 05 | Próximamente | | 🔜 |
 | 06 | Próximamente | | 🔜 |
