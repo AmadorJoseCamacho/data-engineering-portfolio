@@ -51,9 +51,9 @@ Validaciones: balance, centinelas, regiones, flags, nulos, medianas
 - **Zona:** cada portal escribe la zona con su propio formato. Las **99 variantes** se reducen a **38 partidos** reales.
 - **Fecha:** `fecha` cubre **183 días** (2025-07-08 a 2026-01-09) y es la **fecha de scraping**, no de publicación. `hora` tiene un único valor (`13:15:22`), así que no aporta información.
 - **Avisos repetidos:** el mismo aviso aparece en hasta **10 fechas distintas**, por lo que Silver debe deduplicar por `url`.
-- **Moneda mal etiquetada:** las ventas en ARS tienen una mediana de **$650.000**, un precio irreal para una venta, lo que indica avisos en USD cargados como ARS.
-- **El portal sesga la moneda:** el porcentaje de alquileres publicados en USD es del 21,1 % en Argenprop y del 47,4 % en Zonaprop. Una comparación en el tiempo sin separar por portal mezcla cambios del scraping con cambios del mercado.
-- **Nulos disfrazados:** `antiguedad` es nula o `999` en **1.102.982** registros, y hay **6.019** avisos con más m² cubiertos que totales.
+- **Moneda mal etiquetada:** las ventas en ARS tienen una mediana de **$700.000**, un precio irreal para una venta, lo que indica avisos en USD cargados como ARS.
+- **El portal sesga la moneda:** el porcentaje de alquileres publicados en USD es del 21,8 % en Argenprop y del 46,9 % en Zonaprop. Una comparación en el tiempo sin separar por portal mezcla cambios del scraping con cambios del mercado.
+- **Nulos disfrazados:** `antiguedad` es nula o `999` en **1.197.858** de 1.197.911 registros, y hay **6.525** avisos con más m² cubiertos que totales.
 
 ## ✅ Resultado de Silver
 
