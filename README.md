@@ -18,6 +18,7 @@ Portafolio de proyectos de **ingeniería de datos**: ingesta, modelado y calidad
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [EDA de avisos inmobiliarios: capa Bronze](bootcamp-data-engineering/semana-01-eda-propiedades) | Ingesta de 1,2 M de avisos en arquitectura medallion y diagnóstico de calidad de datos: nulos, centinelas, duplicados y outliers | Databricks, Spark SQL, Unity Catalog, Delta Lake |
+| [Arquitectura medallion: de Bronze a Silver](bootcamp-data-engineering/semana-02-medallion-silver) | Capa Silver de 1,09 M de avisos únicos: tipado, normalización con tabla de referencia, deduplicación, flags de calidad y validaciones automáticas | Databricks, Spark SQL, Delta Lake |
 
 ➡️ Todos los proyectos del bootcamp en **[bootcamp-data-engineering](bootcamp-data-engineering)**.
 

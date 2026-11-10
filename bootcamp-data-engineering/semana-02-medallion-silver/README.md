@@ -94,7 +94,7 @@ Validaciones: balance, centinelas, regiones, flags, nulos, medianas
 ## 📁 Estructura
 
 ```
-semana-03-medallion-silver/
+semana-02-medallion-silver/
 ├── README.md
 └── notebooks/
     └── silver_propiedades.ipynb   ← notebook de Databricks con resultados
